@@ -1,4 +1,4 @@
 # CI002 - C++ Programming
 
-## Course Imformation
+## Course Information
 - **Course Title:** C++ Programming 
