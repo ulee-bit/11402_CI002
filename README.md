@@ -5,7 +5,7 @@
 * **姓名：** 王宥莉
 * **學生證：** 1141505
 * **GitHub 用戶名稱：** ulee-bit
-* **GitHub 個人檔案：** [點此造訪](<https://github.com/ulee-bit/ulee.github.io>)
+* **GitHub 個人檔案：** [點此造訪](<https://github.com/ulee-bit>)
 * **課程資料庫網址：** [儲存庫連結](<https://github.com/ulee-bit/11402_CI002>)
 * **GitHub Pages 網址：** [網頁連結](<https://ulee-bit.github.io/ulee.github.io/>)
 * **備註（可選）：** <所有練習題皆已按題號獨立分檔。>
